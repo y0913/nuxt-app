@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "start": "nvm use v16.14.0 && npm run dev"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.1"
+  }
+}
